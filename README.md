@@ -1,4 +1,4 @@
-# OpenClassrooms / Web Developer
+# OpenClassrooms / Web Developer Path
 
 ## Project number 2: Turn a CV into a website
 
