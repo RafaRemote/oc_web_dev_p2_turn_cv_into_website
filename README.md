@@ -1,9 +1,12 @@
-# projet_numero_deux
-Openclassrooms. Parcours Développeur Web. Projet numéro 2: Transformez votre CV en site Web.
+# OpenClassrooms
 
-Lien vers la page web:
+## Path: Web Developer / Project number 2
 
-https://rafaremote.github.io/OC-WebDev-P2-Turn-a-CV-into-a-WebPage/
+### Turn a CV into a website
 
 
-<!-- oc_web_dev_p2_turn_cv_into_website -->
+Use HTML5 and CSS3 to build a responsive web page.  
+Follow the link below 👇 to check how this page is responsive:  
+  
+  
+https://rafaremote.github.io/oc_web_dev_p2_turn_cv_into_website/
